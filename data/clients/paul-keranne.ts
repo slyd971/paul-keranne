@@ -15,9 +15,9 @@ const bookingEmail = "paulkerannedj@gmail.com";
 
 const paulKerannePressKit: PressKitConfig = {
   metadata: {
-    title: "Paul-Keranne Dossier de presse | DJ producteur Afro, Amapiano & Dancehall",
+    title: "Paul-Kéranne Dossier de presse | DJ producteur Afro, Amapiano & Dancehall",
     description:
-      "Découvrez Paul-Keranne, DJ-producteur basé à Paris, créateur de Jungle Beatz et figure montante d'un univers Afro-Amapiano moderne.",
+      "Découvrez Paul-Kéranne, DJ-producteur basé à Paris, créateur de Jungle Beatz et figure montante d'un univers Afro-Amapiano moderne.",
   },
   ui: {
     openMenuLabel: "Ouvrir le menu",
@@ -29,11 +29,11 @@ const paulKerannePressKit: PressKitConfig = {
     galleryNextLabel: "Image suivante",
   },
   artist: {
-    name: "Paul-Keranne",
+    name: "Paul-Kéranne",
     stageLabel: "DJ-producteur • Paris • Afro-Amapiano",
     logo: {
       src: "",
-      alt: "Paul-Keranne logo",
+      alt: "Paul-Kéranne logo",
     },
   },
   navigation: {
@@ -48,7 +48,7 @@ const paulKerannePressKit: PressKitConfig = {
       { label: "Spotify", href: "#spotify" },
     ],
     cta: {
-      label: "Book Paul-Keranne",
+      label: "Book Paul-Kéranne",
       href: "#contact",
       variant: "primary",
     },
@@ -66,16 +66,16 @@ const paulKerannePressKit: PressKitConfig = {
       title: "PAUL",
       accent: "KERANNE",
       description:
-        "Afrobeat, amapiano, dancehall et culture club. Paul-Keranne construit une identité solaire, moderne et fédératrice, des clubs parisiens aux projets pensés pour voyager.",
+        "Afrobeat, amapiano, dancehall et culture club. Paul-Kéranne construit une identité solaire, moderne et fédératrice, des clubs parisiens aux projets pensés pour voyager.",
       layout: "impact",
       image: {
         src: "/paul-keranne/gallery/hero-paulkeranne.jpg",
-        alt: "Portrait de Paul-Keranne",
-        badge: "Paul-Keranne",
+        alt: "Portrait de Paul-Kéranne",
+        badge: "Paul-Kéranne",
         caption: "Afro-Amapiano from Paris",
       },
       ctas: [
-        { label: "Book Paul-Keranne", href: "#contact", variant: "primary" },
+        { label: "Book Paul-Kéranne", href: "#contact", variant: "primary" },
         { label: "Voir vidéos", href: "#videos", variant: "secondary" },
       ],
       stats: [
@@ -95,12 +95,12 @@ const paulKerannePressKit: PressKitConfig = {
       layout: "interactive",
       image: {
         src: "/paul-keranne/gallery/hero-paulkeranne.jpg",
-        alt: "Paul-Keranne en performance",
-        badge: "Paul-Keranne",
+        alt: "Paul-Kéranne en performance",
+        badge: "Paul-Kéranne",
         caption: "Afro-Amapiano from Paris",
       },
       ctas: [
-        { label: "Book Paul-Keranne", href: "#contact", variant: "primary" },
+        { label: "Book Paul-Kéranne", href: "#contact", variant: "primary" },
         { label: "Voir vidéos", href: "#videos", variant: "secondary" },
       ],
       stats: [
@@ -120,12 +120,12 @@ const paulKerannePressKit: PressKitConfig = {
       layout: "showcase",
       image: {
         src: "/paul-keranne/gallery/hero-paulkeranne.jpg",
-        alt: "Visuel de Paul-Keranne",
-        badge: "Paul-Keranne",
+        alt: "Visuel de Paul-Kéranne",
+        badge: "Paul-Kéranne",
         caption: "Afro-Amapiano from Paris",
       },
       ctas: [
-        { label: "Book Paul-Keranne", href: "#contact", variant: "primary" },
+        { label: "Book Paul-Kéranne", href: "#contact", variant: "primary" },
         { label: "Voir vidéos", href: "#videos", variant: "secondary" },
       ],
       stats: [
@@ -143,22 +143,22 @@ const paulKerannePressKit: PressKitConfig = {
     title: "Faire vibrer Paris,\nréunir les publics.",
     signatureLabel: "Positionnement",
     signatureQuote:
-      "Paul-Keranne défend une musique vibrante, puissante et fédératrice, capable de dépasser les frontières.",
+      "Paul-Kéranne défend une musique vibrante, puissante et fédératrice, capable de dépasser les frontières.",
     supportingText:
       "Depuis 2016, il affine un univers Afro-Amapiano ouvert sur le monde, entre culture club, production et événements à forte identité.",
     tags: ["Afrobeat", "Amapiano", "Dancehall", "Club", "Paris", "Jungle Beatz"],
     paragraphs: [
-      "Depuis 2016, Paul-Keranne fait vibrer la scène parisienne grâce à une présence scénique maîtrisée et une identité musicale résolument moderne. Passionné par la culture club, il commence dans les bars intimistes de la capitale, où il affine rapidement son style et son sens du public.",
+      "Depuis 2016, Paul-Kéranne fait vibrer la scène parisienne grâce à une présence scénique maîtrisée et une identité musicale résolument moderne. Passionné par la culture club, il commence dans les bars intimistes de la capitale, où il affine rapidement son style et son sens du public.",
       "Toujours en quête de nouvelles collaborations, il partage en 2018 les platines avec Djibril Cissé lors d'événements marquants qui renforcent sa visibilité dans l'industrie. Sa recherche artistique l'amène progressivement vers les rythmes de la Côte d'Ivoire et les sonorités africaines contemporaines.",
       "En 2020, il dévoile son premier EP UNIVERS, un projet immersif mêlant afrobeat, amapiano et dancehall, confirmant sa capacité à produire une musique authentique, rythmée et ouverte sur le monde.",
-      "Aujourd'hui, Paul-Keranne s'impose comme un DJ-producteur prolifique, enchaînant sorties, remixes et collaborations avec des artistes émergents du continent africain.",
+      "Aujourd'hui, Paul-Kéranne s'impose comme un DJ-producteur prolifique, enchaînant sorties, remixes et collaborations avec des artistes émergents du continent africain.",
     ],
   },
   clubs: {
     eyebrow: "Expérience",
     title: "Une histoire née\nsur les dancefloors parisiens.",
     description:
-      "Paul-Keranne s'est construit dans les bars et clubs parisiens, au contact direct du public. Avec Jungle Beatz, il transforme cette énergie en rendez-vous régulier autour de l'afro, de l'amapiano et d'une ambiance faite pour danser ensemble.",
+      "Paul-Kéranne s'est construit dans les bars et clubs parisiens, au contact direct du public. Avec Jungle Beatz, il transforme cette énergie en rendez-vous régulier autour de l'afro, de l'amapiano et d'une ambiance faite pour danser ensemble.",
     regions: [
       {
         title: "Paris",
@@ -191,14 +191,14 @@ const paulKerannePressKit: PressKitConfig = {
       href: soundCloudUrl,
       external: true,
     },
-    embedTitle: "Player SoundCloud de Paul-Keranne",
+    embedTitle: "Player SoundCloud de Paul-Kéranne",
     embedUrl: soundCloudEmbedUrl,
   },
   videos: {
     eyebrow: "Vidéos",
     title: "Extraits live.",
     description:
-      "On y retrouve Paul-Keranne dans ce qu'il aime le plus: faire monter la salle, garder le lien avec le public et installer une ambiance qui donne envie de rester jusqu'au dernier morceau.",
+      "On y retrouve Paul-Kéranne dans ce qu'il aime le plus: faire monter la salle, garder le lien avec le public et installer une ambiance qui donne envie de rester jusqu'au dernier morceau.",
     items: [
       {
         id: "paul-keranne-video-1",
@@ -237,14 +237,14 @@ const paulKerannePressKit: PressKitConfig = {
   },
   youtube: {
     eyebrow: "YouTube",
-    title: "Paul-Keranne\non Youtube.",
+    title: "Paul-Kéranne\non Youtube.",
     description:
-      "Ces vidéos montrent ce que Paul-Keranne construit au-delà du set: une identité afro-amapiano ancrée à Paris, des moments de club qui fédèrent, et une direction artistique pensée pour faire vivre la musique avant, pendant et après la soirée.",
+      "Ces vidéos montrent ce que Paul-Kéranne construit au-delà du set: une identité afro-amapiano ancrée à Paris, des moments de club qui fédèrent, et une direction artistique pensée pour faire vivre la musique avant, pendant et après la soirée.",
     items: [
       {
         id: "paul-keranne-youtube-1",
         title: "Culture club",
-        description: "Un format long pour sentir la progression, les transitions et la manière dont Paul-Keranne installe son énergie.",
+        description: "Un format long pour sentir la progression, les transitions et la manière dont Paul-Kéranne installe son énergie.",
         source: "youtube",
         embedUrl: "https://www.youtube.com/embed/Suazp7b1wTo?start=577",
       },
@@ -273,10 +273,10 @@ const paulKerannePressKit: PressKitConfig = {
     eyebrow: "Vision",
     title: "Jungle Beatz,\nle rendez-vous signature.",
     intro:
-      "En 2024, Paul-Keranne crée Jungle Beatz, son propre concept de soirée, lancé dans un bar à ambiance du 9e arrondissement de Paris puis au Café Oz Châtelet.",
+      "En 2024, Paul-Kéranne crée Jungle Beatz, son propre concept de soirée, lancé dans un bar à ambiance du 9e arrondissement de Paris puis au Café Oz Châtelet.",
     paragraphs: [
       "Le concept séduit rapidement un public croissant attiré par son univers Afro-Amapiano.",
-      "Jungle Beatz rassemble plus de 250 personnes en moyenne par soirée et installe Paul-Keranne comme curateur d'un moment club identifiable, chaleureux et fédérateur.",
+      "Jungle Beatz rassemble plus de 250 personnes en moyenne par soirée et installe Paul-Kéranne comme curateur d'un moment club identifiable, chaleureux et fédérateur.",
     ],
     stats: [
       { value: "2024", label: "Création" },
@@ -290,13 +290,13 @@ const paulKerannePressKit: PressKitConfig = {
   },
   spotify: {
     eyebrow: "Spotify",
-    title: "Écouter Paul-Keranne",
+    title: "Écouter Paul-Kéranne",
     description:
       "Ses sorties posent les bases de son univers: une couleur afro contemporaine, des rythmes amapiano et dancehall, et une énergie club pensée pour circuler naturellement entre Paris et les scènes internationales.",
     playlists: [
       {
         id: "paul-keranne-artist",
-        title: "Paul-Keranne",
+        title: "Paul-Kéranne",
         embedUrl: spotifyEmbedUrl,
       },
     ],
@@ -306,14 +306,14 @@ const paulKerannePressKit: PressKitConfig = {
     eyebrow: "Projet",
     title: "Une présence claire,\npensée pour les formats culture.",
     intro:
-      "Paul-Keranne porte une image musicale forte, à la croisée de la nightlife parisienne, des cultures afro contemporaines et des contenus digitaux.",
+      "Paul-Kéranne porte une image musicale forte, à la croisée de la nightlife parisienne, des cultures afro contemporaines et des contenus digitaux.",
     supportingText:
       "Son univers peut accompagner clubs, festivals, activations culturelles et projets de marque qui cherchent une énergie authentique et fédératrice.",
     categories: ["Nightlife", "Afro culture", "Amapiano", "Digital"],
     itemLabel: "Univers compatibles",
     items: [],
     fit: {
-      eyebrow: "Pourquoi Paul-Keranne",
+      eyebrow: "Pourquoi Paul-Kéranne",
       title: "Production, communauté et vision.",
       points: [
         "Un concept propriétaire déjà identifié avec Jungle Beatz",
@@ -326,7 +326,7 @@ const paulKerannePressKit: PressKitConfig = {
     eyebrow: "Contact",
     title: "Booking & demandes.",
     description:
-      "Pour une date club, une collaboration, un événement privé, une activation ou une demande média, contactez l'équipe de Paul-Keranne.",
+      "Pour une date club, une collaboration, un événement privé, une activation ou une demande média, contactez l'équipe de Paul-Kéranne.",
     methods: [
       {
         label: "Email",
@@ -354,48 +354,48 @@ const paulKerannePressKit: PressKitConfig = {
     eyebrow: "Galerie",
     title: "Galerie",
     description:
-      "Une première sélection d'images pour installer l'identité visuelle de Paul-Keranne, entre portrait, scène et contenu artiste.",
+      "Une première sélection d'images pour installer l'identité visuelle de Paul-Kéranne, entre portrait, scène et contenu artiste.",
     homepageTitle: "Univers visuel",
     homepageCtaLabel: "Ouvrir la galerie",
     images: [
       {
         src: "/paul-keranne/gallery/gallery-pk1.jpg",
-        alt: "Paul-Keranne en live",
+        alt: "Paul-Kéranne en live",
         position: "center 18%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk2.jpg",
-        alt: "Visuel de Paul-Keranne",
+        alt: "Visuel de Paul-Kéranne",
         position: "center 20%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk4.jpeg",
-        alt: "Paul-Keranne - set",
+        alt: "Paul-Kéranne - set",
         position: "center 75%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk5.jpeg",
-        alt: "Paul-Keranne - ambiance",
+        alt: "Paul-Kéranne - ambiance",
         position: "center 50%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk6.jpeg",
-        alt: "Paul-Keranne - scène",
+        alt: "Paul-Kéranne - scène",
         position: "center 50%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk7.jpeg",
-        alt: "Paul-Keranne - live",
+        alt: "Paul-Kéranne - live",
         position: "center 50%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk8.jpeg",
-        alt: "Paul-Keranne - ambiance",
+        alt: "Paul-Kéranne - ambiance",
         position: "center 50%",
       },
       {
         src: "/paul-keranne/gallery/gallery-pk9.jpeg",
-        alt: "Paul-Keranne - set",
+        alt: "Paul-Kéranne - set",
         position: "center 50%",
       },
     ],
@@ -406,7 +406,7 @@ export const paulKeranneClient: ClientConfig = {
   slug: "paul-keranne",
   domain: "paul-keranne.presskit.fr",
   vercelSubdomain: "paul-keranne.vercel.app",
-  name: "Paul-Keranne",
+  name: "Paul-Kéranne",
   tagline: "DJ-producteur • Paris • Afro-Amapiano",
   city: "Paris",
   country: "France",
@@ -450,7 +450,7 @@ export const paulKeranneClient: ClientConfig = {
     title: paulKerannePressKit.metadata.title,
     description: paulKerannePressKit.metadata.description,
     keywords: [
-      "Paul-Keranne",
+      "Paul-Kéranne",
       "Paul Keranne DJ",
       "DJ Paris",
       "Afro Amapiano DJ",

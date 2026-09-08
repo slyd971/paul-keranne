@@ -458,6 +458,7 @@ export const paulKeranneClient: ClientConfig = {
       "dossier de presse DJ",
     ],
     ogImage: "/opengraph-image",
+    favicon: "/paul-keranne/favicon/favicon.ico",
   },
   defaultTheme: "orange",
   defaultVariant: "impact",
